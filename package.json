@@ -1,0 +1,24 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Mi primera app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lapz1/myapp.git"
+  },
+  "keywords": [
+    "myapp",
+    "node.js",
+    "npm"
+  ],
+  "author": "Luis Pena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lapz1/myapp/issues"
+  },
+  "homepage": "https://github.com/lapz1/myapp#readme"
+}
