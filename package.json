@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/lapz1/myapp/issues"
   },
-  "homepage": "https://github.com/lapz1/myapp#readme"
+  "homepage": "https://github.com/lapz1/myapp#readme",
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
 }
